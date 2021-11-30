@@ -27,7 +27,7 @@ There are **906 unique addresses** eligible for these additional tokens.
 
 View more at [/Snapshot Votes & POAP Holders](./Snapshot%20Votes%20%26%20POAP%20Holders).
 
-## 2 - Early Contributors
+## 2 - Early Contributors (Coordinape)
 
 Many DAO members have been early contributors to the DAO without the expectation of reward. The $CODE issuance will set a percentage of tokens aside for early contributors. We will launch a Coordinape circle to distribute these tokens. Core Team members will not be eligible for Early Contributor rewards.
 
