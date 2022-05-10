@@ -37,7 +37,7 @@ The epoch for the Early Contributors circle ran for 10 days from March 7 to Marc
 
 The following strategy was then applied to the raw coordinape information to align the results with the ratified purpose of the Early Contributor rewards.
 
-1. First, any GIVE send above 10 was capped to 10. For example - if Alice sent Bob 15 GIVE, Alice will only receive 10 GIVE. If Bob sent Alice 9 GIVE, Alice receives the entire 9 GIVE.
+1. First, any GIVE send above 10 was capped to 10. For example - if Alice sent Bob 15 GIVE, Bob will only receive 10 GIVE. If Bob sent Alice 9 GIVE, Alice receives the entire 9 GIVE.
 2. Second, core contributors are verified by contribution leaders in the DAO. You can read more about this process and see the verification results [on our wiki](https://developerdao.notion.site/85f6ebe5393a43d9aabd682c269bd8f9?v=90f747eca99e4a66afca60f5b7ff19d5).
 3. Third, a GIVE cap is placed on **unverified contributors**. The GIVE cap was decided as 10 GIVE.
     1. This equates to 605 $CODE. This more than doubles a members initial $CODE claim if they just held the NFT at snapshot, but keeps the distribution below that of many verified contributors.
